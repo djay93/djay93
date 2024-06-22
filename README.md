@@ -1,15 +1,24 @@
 # Hey there! 👋 🧑‍💻
+
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/djay93)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/djay93)
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@djay93)
 [![Repos Badge](https://badges.pufler.dev/repos/djay93)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/djay93/djay93)](https://badges.pufler.dev)
 
-<p align="right"> You are visitor <img align="right" alt="GIF" src="https://profile-counter.glitch.me/djay93/count.svg" /> </p>
+<p align="right"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/djay93/count.svg" />
+</p>
 
 
 ## About Me 🚀 
 With over 15 years of experience in the tech industry, I am a Senior Software Developer and Architect committed to developing, testing, and maintaining enterprise-grade applications. My method ensures that my deliverables are consistently of the highest quality and completed on schedule.
+
+## Let's Connect! 🤝 
+Feel free to contact me for questions, project collaborations, or freelance opportunities.
+- **Email:** [djay@innotech.io](mailto:djay@innotech.io)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/djay93)
 
 ## Technical Expertise 💻 
 
@@ -39,16 +48,11 @@ With over 15 years of experience in the tech industry, I am a Senior Software De
 - **Cybersecurity**
 - **Enterprise Software**
 
-## What I'm currently learning 📚
-- AI/ML
-- Rust
-
-## How to Reach Me 📫
-- **Email:** [djay@innotech.io](mailto:djay@innotech.io)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/djay93)
-
-## Let's Connect! 🤝 
-Feel free to contact me for questions, project collaborations, or freelance opportunities.
+## Projects I'm currently working on ⚡ 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
 
 ## My GitHub Stats 🌟
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=djay93&show_icons=true&theme=gotham" alt="djay93" />
