@@ -48,11 +48,18 @@ Feel free to contact me for questions, project collaborations, or freelance oppo
 - **Cybersecurity**
 - **Enterprise Software**
 
-## Projects I'm currently working on ⚡ 
+## Projects I'm currently working on ⚡
+<details>
+  <summary>Show</summary>
+
+<!--START_SECTION:projects--> 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
+<!--END_SECTION:projects-->
+
+</details>
 
 ## My GitHub Stats 🌟
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=djay93&show_icons=true&theme=gotham" alt="djay93" />
