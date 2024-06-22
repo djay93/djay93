@@ -1,63 +1,57 @@
-# 👋 Welcome to My GitHub Profile!
+# Hey there! 👋 🧑‍💻
+[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/djay93)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/djay93)
+[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@djay93)
+[![Repos Badge](https://badges.pufler.dev/repos/djay93)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/djay93/djay93)](https://badges.pufler.dev)
 
-### 🚀 About Me
-With over 15 years of experience in the tech industry, I am a Senior Software Developer and Architect dedicated to developing, testing, and maintaining enterprise-grade applications. My approach ensures projects are of the highest quality, completed on time, and within budget.
+<p align="right"> You are visitor <img align="right" alt="GIF" src="https://profile-counter.glitch.me/djay93/count.svg" /> </p>
 
----
 
-### 💻 Technical Expertise
-#### Languages
-- **Java, Python, JavaScript, TypeScript, Rust, Scala**  
-  Deep expertise in a range of programming languages, capable of handling any layer of the application stack.
+## About Me 🚀 
+With over 15 years of experience in the tech industry, I am a Senior Software Developer and Architect committed to developing, testing, and maintaining enterprise-grade applications. My method ensures that my deliverables are consistently of the highest quality and completed on schedule.
 
-#### Backend Technologies
-- **Node.js, Django, Spring Boot, Express**  
-  Advanced skills in creating robust backend systems using modern microservices architectures and RESTful API design.
+## Technical Expertise 💻 
 
-#### Frontend Development
-- **React.js, Angular, Tailwind CSS, Bootstrap**  
-  Skilled in crafting engaging and responsive user interfaces.
+- **Languages**: Deep expertise across a variety of programming languages, suitable for any application layer.
+  > Java, Python, JavaScript, TypeScript, Rust, Scala.
+- **Backend Technologies**: Skilled in creating robust backend systems with modern microservices architectures and RESTful API design.
+  > SpringBoot, Node.js, Express, Django.
+- **Frontend Development**: Expertise in creating engaging and responsive user interfaces.
+  > React.js, Angular, Tailwind CSS, Bootstrap
+- **Mobile Development**: Experienced in developing applications for both iOS and Android, including cross-platform solutions.
+  > iOS (Swift), Android (Kotlin), React Native, Flutter
+- **Databases**: Experienced in implementing scalable database solutions with both SQL and NoSQL technologies.
+  > PostgreSQL, MySQL, MongoDB, Redis, Cassandra
+- **Cloud & DevOps**: Experience in managing and deploying applications using cloud platforms and DevOps tools.
+  > AWS, Azure, GCP, Kubernetes, Docker, Terraform, Ansible
+- **Data & Analytics**: Experienced with advanced data engineering tools and analytics platforms.
+  > Apache Kafka, Snowflake, Databricks, SSIS/SSRS, PowerBI, Tableau
+- **AI & Machine Learning**: Knowledgeable in leveraging AI frameworks for building and deploying machine learning models.
+  > TensorFlow, PyTorch, Hugging Face
 
-#### Mobile Development
-- **iOS (Swift), Android (Kotlin), Flutter, React Native**  
-  Extensive experience in developing apps for both iOS and Android platforms, including cross-platform solutions.
 
-#### Databases
-- **PostgreSQL, MongoDB, Redis, Cassandra**  
-  Experienced in implementing scalable database solutions with both SQL and NoSQL technologies.
-
-#### Cloud & DevOps
-- **AWS, Azure, GCP, Kubernetes, Docker, Terraform, Ansible**  
-  Proficient in deploying and managing applications using major cloud platforms and DevOps tools.
-
-#### Data & Analytics
-- **Apache Kafka, Snowflake, Databricks, PowerBI, Tableau**  
-  Familiar with cutting-edge data engineering tools and proficient in analytics platforms.
-
-#### AI & Machine Learning
-- **TensorFlow, PyTorch, Hugging Face**  
-  Knowledgeable in using AI frameworks for building and deploying machine learning models.
-
----
-
-### 🌐 Domain Expertise
+## Domain Expertise 🌐 
 - **FinTech**
 - **HealthTech**
 - **Telecom**
+- **Travel & Leisure**
 - **Cybersecurity**
 - **Enterprise Software**
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+## What I'm currently learning 📚
+- AI/ML
+- Rust
 
----
+## How to Reach Me 📫
+- **Email:** [djay@innotech.io](mailto:djay@innotech.io)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/djay93)
 
-### 📫 How to Reach Me
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+## Let's Connect! 🤝 
+Feel free to contact me for questions, project collaborations, or freelance opportunities.
 
-### 🌟 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
+## My GitHub Stats 🌟
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=djay93&show_icons=true&theme=gotham" alt="djay93" />
 
 <!--
 **djay93/djay93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
