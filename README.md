@@ -13,7 +13,7 @@
 
 
 ## About Me 🚀 
-With over 15 years of experience in the tech industry, I am a Senior Software Developer and Architect committed to developing, testing, and maintaining enterprise-grade applications. My method ensures that my deliverables are consistently of the highest quality and completed on schedule.
+With over 15 years of experience, I'm a Senior Software Developer and Architect dedicated to developing, testing, and maintaining enterprise-grade applications. My primary objective when joining a project is to demonstrate the value of my involvement. I ensure that my deliverables are of the highest quality and completed on time, thereby creating substantial value for the customer’s business.
 
 ## Let's Connect! 🤝 
 Feel free to contact me for questions, project collaborations, or freelance opportunities.
