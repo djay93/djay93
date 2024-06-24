@@ -1,15 +1,19 @@
 # Hey there! 👋 🧑‍💻
 
-[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/djay93)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/djay93)
-[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@djay93)
-[![Repos Badge](https://badges.pufler.dev/repos/djay93)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/djay93/djay93)](https://badges.pufler.dev)
+[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/danatoku)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/danatoku)
+[![Profile Views](https://komarev.com/ghpvc/?username=danatoku&style=for-the-badge&color=yellow)](https://github.com/antonkomarev/github-profile-views-counter)
+[![Repos Badge](https://badges.pufler.dev/repos/danatoku)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/danatoku/danatoku)](https://badges.pufler.dev)
 
+
+
+<!--
 <p align="right"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/djay93/count.svg" />
 </p>
+-->
 
 
 ## About Me 🚀 
