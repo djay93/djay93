@@ -18,7 +18,7 @@ With over 15 years of experience, I'm a Senior Software Developer and Architect 
 ## Let's Connect! 🤝 
 Feel free to contact me for questions, project collaborations, or freelance opportunities.
 - **Email:** [djay@innotech.io](mailto:djay@innotech.io)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/djay93)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/innotech-systems-inc)
 
 ## Technical Expertise 💻 
 
@@ -53,16 +53,14 @@ Feel free to contact me for questions, project collaborations, or freelance oppo
   <summary>Show</summary>
 
 <!--START_SECTION:projects--> 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danatoku&repo=travelcrm-suite)](https://github.com/danatoku/travelcrm-suite)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=inno-tech-labs&repo=spring-search-demo)](https://github.com/inno-tech-labs/spring-search-demo)
 <!--END_SECTION:projects-->
 
 </details>
 
 ## My GitHub Stats 🌟
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=djay93&show_icons=true&theme=gotham" alt="djay93" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danatoku&show_icons=true&theme=gotham" alt="danatoku" />
 
 <!--
 **djay93/djay93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
