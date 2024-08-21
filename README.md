@@ -4,8 +4,8 @@ With over 15 years of experience, I'm a Senior Software Developer and Architect 
 
 ## Let's Connect! 🤝 
 Feel free to contact me for questions, project collaborations, or freelance opportunities.
-- **Email:** [djay@innotech.io](mailto:djay@innotech.io)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/innotech-systems-inc)
+- **Email:** [itsdhana@gmail.com](mailto:itsdhana@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/djay93)
 
 
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/danatoku)
