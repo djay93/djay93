@@ -8,35 +8,11 @@ Feel free to contact me for questions, project collaborations, or freelance oppo
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/djay93)
 
 
-[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/danatoku)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/danatoku)
+[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/djay93)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/meet_me_dj)
 [![Visitor Count](https://komarev.com/ghpvc/?username=danatoku&style=for-the-badge&color=yellow)](https://github.com/antonkomarev/github-profile-views-counter)
 [![Repos Badge](https://badges.pufler.dev/repos/danatoku)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/danatoku/danatoku)](https://badges.pufler.dev)
-
-<p align="left">
-<a href="mailto:djay@innotech.io" target="_blank">
-  <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://meetings.hubspot.com/innotech-systems/join-me" target="_blank">
-  <img src="https://img.shields.io/badge/calendly-%231E77B5.svg?&style=for-the-badge&logo=calendly&logoColor=white" alt=topmate style="margin-bottom: 10px;" />
-</a>
-<a href="https://www.linkedin.com/in/innotech-systems-inc" target="_blank">
- <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 10px;" />
-</a>
-<a href="https://twitter.com/danatoku" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 10px;" />
-</a>
-<a href="https://github.com/danatoku" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" alt=github style="margin-bottom: 10px;"/>
-</a>
-<!-- a href="https://www.instagram.com/prathima_kadari" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%2300acee.svg?&style=for-the-badge&logo=instagram&logoColor=purple alt=instagram style="margin-bottom: 10px;" />
-</a>
-<a href="https://discordapp.com/users/797471610327924778" target="_blank">
-  <img src=https://img.shields.io/badge/discord-%232E87FB.svg?&style=for-the-badge&logo=discord&logoColor=orange alt=discord style="margin-bottom: 10px;" />
-</a -->
-</p>
 
 <!--
 <p align="right"> 
