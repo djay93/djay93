@@ -62,7 +62,7 @@ Feel free to contact me for questions, project collaborations, or freelance oppo
 </details>
 
 ## My GitHub Stats 🌟
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danatoku&show_icons=true&theme=gotham" alt="danatoku" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=djay93&show_icons=true&theme=gotham" alt="djay93" />
 
 <!--
 **djay93/djay93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
